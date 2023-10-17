@@ -1,4 +1,22 @@
-### Hi there 👋
+### bem vindo ao meu perfil. 👋
+
+meu nome é Juliano Pedroso Leiria. 👍
+
+- Estou aprendendo a programar com a plataforma Alura. 🦡
+- 
+- Me interessam as linguagens de programação: JavaScript e Screath.
+- 
+- tambem estou aprendendo as linguagens de marcação: HTML e CSS
+- 
+- Utilizo este espaço para salvar meus projetos a compartilhar meus códigos:
+
+- ### Meu e-mail para contato é 📧
+- juliano.leiria@escola.pr.gov.br
+
+- 
+- 
+
+
 
 <!--
 **longhini041/longhini041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
