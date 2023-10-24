@@ -11,7 +11,7 @@ meu nome é Juliano Pedroso Leiria. 👍
 - Utilizo este espaço para salvar meus projetos a compartilhar meus códigos:
 
 - ### Meu e-mail para contato é 📧
-- juliano.leiria@escola.pr.gov.brhttps:
+- juliano.leiria@escola.pr.gov.br 
 
   ![](https://tenor.com/pt-BR/view/computer-work-gif-25693939)
 
