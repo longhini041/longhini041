@@ -11,9 +11,11 @@ meu nome é Juliano Pedroso Leiria. 👍
 - Utilizo este espaço para salvar meus projetos a compartilhar meus códigos:
 
 - ### Meu e-mail para contato é 📧
-- juliano.leiria@escola.pr.gov.br 
+- juliano.leiria@escola.pr.gov.br
 
-  ![](https://tenor.com/pt-BR/view/computer-work-gif-25693939)
+  ![](https://media.tenor.com/ZEASGnTg8M8AAAAM/computer-work.gif)
+
+
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
